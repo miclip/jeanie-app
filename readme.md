@@ -3,6 +3,7 @@
 Ember front end, ruby on rails with devise for Auth, rail on rails api
 
 Ember Application (jeanie-web): [![Build Status](https://travis-ci.org/miclip/jeanie-web.svg?branch=master)](https://travis-ci.org/miclip/jeanie-web)
+[![Code Climate](https://codeclimate.com/github/miclip/jeanie-web/badges/gpa.svg)](https://codeclimate.com/github/miclip/jeanie-web)
 
 Ruby on Rails Auth (jeanie-auth): [![Build Status](https://travis-ci.org/miclip/jeanie-auth.svg?branch=master)](https://travis-ci.org/miclip/jeanie-auth)
 
