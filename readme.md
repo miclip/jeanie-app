@@ -6,5 +6,7 @@ Ember Application (jeanie-web): [![Build Status](https://travis-ci.org/miclip/je
 [![Code Climate](https://codeclimate.com/github/miclip/jeanie-web/badges/gpa.svg)](https://codeclimate.com/github/miclip/jeanie-web)
 
 Ruby on Rails Auth (jeanie-auth): [![Build Status](https://travis-ci.org/miclip/jeanie-auth.svg?branch=master)](https://travis-ci.org/miclip/jeanie-auth)
+[![Code Climate](https://codeclimate.com/github/miclip/jeanie-auth/badges/gpa.svg)](https://codeclimate.com/github/miclip/jeanie-auth)
 
 Ruby on Rails Api (jeanie-api): [![Build Status](https://travis-ci.org/miclip/jeanie-api.svg?branch=master)](https://travis-ci.org/miclip/jeanie-api)
+[![Code Climate](https://codeclimate.com/github/miclip/jeanie-api/badges/gpa.svg)](https://codeclimate.com/github/miclip/jeanie-api)
